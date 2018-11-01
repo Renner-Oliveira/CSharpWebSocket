@@ -1,12 +1,10 @@
-﻿using SPTC.WebSockets;
-using System;
-using System.Collections.Generic;
+﻿using System;
 using System.Net.WebSockets;
 using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SPTC.WebSockets
+namespace Chameleon.WebSockets
 {
     public abstract class WebSocketHandler
     {

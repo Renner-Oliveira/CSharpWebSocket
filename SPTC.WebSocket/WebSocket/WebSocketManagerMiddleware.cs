@@ -1,12 +1,10 @@
 ﻿using Microsoft.AspNetCore.Http;
 using System;
-using System.Collections.Generic;
 using System.Net.WebSockets;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SPTC.WebSockets
+namespace Chameleon.WebSockets
 {
     public class WebSocketManagerMiddleware
     {

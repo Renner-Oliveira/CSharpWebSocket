@@ -1,13 +1,11 @@
 ﻿using System;
 using System.Collections.Concurrent;
-using System.Collections.Generic;
 using System.Linq;
 using System.Net.WebSockets;
-using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SPTC.WebSockets
+namespace Chameleon.WebSockets
 {
     public class WebSocketConnectionManager
     {

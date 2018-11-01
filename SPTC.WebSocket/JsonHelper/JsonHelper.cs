@@ -1,10 +1,8 @@
 ﻿using Newtonsoft.Json;
 using Newtonsoft.Json.Serialization;
 using System;
-using System.Collections.Generic;
-using System.Text;
 
-namespace SPTC.WebSockets.JsonHelper
+namespace Chameleon.WebSockets.JsonHelper
 {
     public enum Action
     {
